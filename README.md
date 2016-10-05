@@ -1,0 +1,2 @@
+# etik
+tugas app etik
